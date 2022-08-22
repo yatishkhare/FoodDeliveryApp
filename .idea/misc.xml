@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/yatkhare/AndroidStudioProjects/FoodDeliveryApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/yatkhare/AndroidStudioProjects/FoodDeliveryApp/app/src/main/res/drawable/ChickenBiryani_background.xml" value="0.1" />
+        <entry key="..\:/Users/yatkhare/AndroidStudioProjects/FoodDeliveryApp/app/src/main/res/drawable/MasalaDosa_background.xml" value="0.1" />
+        <entry key="..\:/Users/yatkhare/AndroidStudioProjects/FoodDeliveryApp/app/src/main/res/drawable/TandooriChicken_background.xml" value="0.187" />
+        <entry key="..\:/Users/yatkhare/AndroidStudioProjects/FoodDeliveryApp/app/src/main/res/drawable/TandooriRoti_background.xml" value="0.187" />
+        <entry key="..\:/Users/yatkhare/AndroidStudioProjects/FoodDeliveryApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/yatkhare/AndroidStudioProjects/FoodDeliveryApp/app/src/main/res/layout/activity_login.xml" value="0.21979166666666666" />
+        <entry key="..\:/Users/yatkhare/AndroidStudioProjects/FoodDeliveryApp/app/src/main/res/layout/activity_main.xml" value="0.21979166666666666" />
+        <entry key="..\:/Users/yatkhare/AndroidStudioProjects/FoodDeliveryApp/app/src/main/res/layout/cart.xml" value="0.21875" />
+        <entry key="..\:/Users/yatkhare/AndroidStudioProjects/FoodDeliveryApp/app/src/main/res/layout/list_of_items.xml" value="0.36923078006541266" />
+        <entry key="..\:/Users/yatkhare/AndroidStudioProjects/FoodDeliveryApp/app/src/main/res/layout/recycler_list_of_items.xml" value="0.18461539003270633" />
+        <entry key="..\:/Users/yatkhare/AndroidStudioProjects/FoodDeliveryApp/app/src/main/res/mipmap-anydpi-v26/ChickenBiryani.xml" value="0.187" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
